@@ -1,0 +1,14 @@
+/Users/ashnelsonpartners/Documents/Personal/Projects/dotNet/Advantage.API/bin/Debug/netcoreapp2.2/Advantage.API.deps.json
+/Users/ashnelsonpartners/Documents/Personal/Projects/dotNet/Advantage.API/bin/Debug/netcoreapp2.2/Advantage.API.runtimeconfig.json
+/Users/ashnelsonpartners/Documents/Personal/Projects/dotNet/Advantage.API/bin/Debug/netcoreapp2.2/Advantage.API.runtimeconfig.dev.json
+/Users/ashnelsonpartners/Documents/Personal/Projects/dotNet/Advantage.API/bin/Debug/netcoreapp2.2/Advantage.API.dll
+/Users/ashnelsonpartners/Documents/Personal/Projects/dotNet/Advantage.API/bin/Debug/netcoreapp2.2/Advantage.API.pdb
+/Users/ashnelsonpartners/Documents/Personal/Projects/dotNet/Advantage.API/obj/Debug/netcoreapp2.2/Advantage.API.csprojAssemblyReference.cache
+/Users/ashnelsonpartners/Documents/Personal/Projects/dotNet/Advantage.API/obj/Debug/netcoreapp2.2/Advantage.API.csproj.CoreCompileInputs.cache
+/Users/ashnelsonpartners/Documents/Personal/Projects/dotNet/Advantage.API/obj/Debug/netcoreapp2.2/Advantage.API.RazorAssemblyInfo.cache
+/Users/ashnelsonpartners/Documents/Personal/Projects/dotNet/Advantage.API/obj/Debug/netcoreapp2.2/Advantage.API.RazorAssemblyInfo.cs
+/Users/ashnelsonpartners/Documents/Personal/Projects/dotNet/Advantage.API/obj/Debug/netcoreapp2.2/Advantage.API.AssemblyInfoInputs.cache
+/Users/ashnelsonpartners/Documents/Personal/Projects/dotNet/Advantage.API/obj/Debug/netcoreapp2.2/Advantage.API.AssemblyInfo.cs
+/Users/ashnelsonpartners/Documents/Personal/Projects/dotNet/Advantage.API/obj/Debug/netcoreapp2.2/Advantage.API.RazorTargetAssemblyInfo.cache
+/Users/ashnelsonpartners/Documents/Personal/Projects/dotNet/Advantage.API/obj/Debug/netcoreapp2.2/Advantage.API.dll
+/Users/ashnelsonpartners/Documents/Personal/Projects/dotNet/Advantage.API/obj/Debug/netcoreapp2.2/Advantage.API.pdb
