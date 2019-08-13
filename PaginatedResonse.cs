@@ -9,7 +9,7 @@ namespace Advantage.API
         {
             //[1] page, 10 results
             Data = data.Skip((i-1 ) * len).Take(len).ToList();
-            Total = Data.Count(); 
+            Total = data.Count(); 
         } 
 
         public int Total {get; set;}
